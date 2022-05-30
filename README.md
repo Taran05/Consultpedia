@@ -7,6 +7,8 @@ The frontend client makes API calls to the backend server when it is running.
 ## Screenshot
 ![](https://raw.githubusercontent.com/zhulinn/blog/hexo/source/uploads/post_pics/spring-angular/cart.png)
 
+<img width="1440" alt="Screenshot 2022-02-23 at 8 26 31 AM" src="https://user-images.githubusercontent.com/65440079/170930849-f83f0c92-604b-4e60-8df2-6f8e93c3cd91.png">
+
 ## Features
 - REST API
 - JWT authentication
