@@ -23,7 +23,7 @@ The frontend client makes API calls to the backend server when it is running.
 ## Technology Stacks
 **Backend**
   - Java 17
-  - Spring Boot 2.2
+  - Spring Boot 2.7
   - Spring Security
   - JWT Authentication
   - Spring Data JPA
