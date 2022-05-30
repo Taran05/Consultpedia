@@ -1,6 +1,6 @@
 # Consultpedia
 
-#### A full-stack Online Shop web application using Spring Boot 2 and Angular 7. 
+#### A full-stack Online Shop web application using Spring Boot 2 and Angular 13. 
 This is a Single Page Appliaction with client-side rendering. It includes [backend](https://github.com/Taran05/Consultpedia/tree/master/backend) and [frontend](https://github.com/Taran05/Consultpedia/tree/master/frontend) two seperate projects on different branches.
 The frontend client makes API calls to the backend server when it is running.
 
@@ -32,7 +32,7 @@ The frontend client makes API calls to the backend server when it is running.
   - Maven
 
 **Frontend**
-  - Angular 7
+  - Angular 13
   - Angular CLI
   - Bootstrap
 
