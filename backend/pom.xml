@@ -8,14 +8,14 @@
         <version>2.6.4</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>me.zhulin</groupId>
-    <artifactId>shop-api</artifactId>
+    <groupId>com.consultpedia</groupId>
+    <artifactId>consultpedia</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>shop-api</name>
-    <description>Online Shopping API Server</description>
+    <name>consultpedia</name>
+    <description>Online Shop Web Application</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
