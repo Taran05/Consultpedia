@@ -9,7 +9,10 @@ The application has 3 diffeent actors:
 2) Employee (They can add/remove products, maintain customer's information, view/update stocks, cancel/confirm customer orders)
 3) Customer (They can register, login, buy products, checkout cart, view orders, etc)
 
-## Screenshot
+## Screenshots
+<img width="1431" alt="home_page" src="https://user-images.githubusercontent.com/65440079/170940465-7340988c-fbe2-43a7-a16f-79182d7496d2.png">
+<img width="1430" alt="stock" src="https://user-images.githubusercontent.com/65440079/170940524-93633969-96a3-41d8-b5d8-527cbba331b1.png">
+<img width="1434" alt="orders" src="https://user-images.githubusercontent.com/65440079/170940550-01f31b3a-6ca9-444c-b59c-3644da11b1fb.png">
 
 
 
